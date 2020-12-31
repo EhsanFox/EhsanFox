@@ -15,18 +15,18 @@
  ```javascript
   const Ehsan = {
   	pronouns: ['Exxon', 'BoyCode', 'He'],
-    Languages: ['Javascript', 'TypeScript', 'PHP'],
-    Tools: ['VSCode', 'Node', 'DiscordJS'],
-    hobbies: [
-	    Games: ['CS:GO', 'Valorant', 'R6'],
-	    WatchingAnime: true,
-	    TVSeries: true
+    	Languages: ['Javascript', 'TypeScript', 'PHP'],
+    	Tools: ['VSCode', 'Node', 'DiscordJS'],
+    	hobbies: [
+		Games: ['CS:GO', 'Valorant', 'R6'],
+		WatchingAnime: true,
+		TVSeries: true
 	],
-    Projects: {
-    	SetarBot: "a Music Bot Created for Discord",
-        SunriseRP: "Biggest Persian Fivem Roleplay Server"
-    },
-    website: "http://ehsan.js.org"
+    	Projects: {
+    		SetarBot: "a Music Bot Created for Discord",
+        	SunriseRP: "Biggest Persian Fivem Roleplay Server"
+    	},
+    	website: "http://ehsan.js.org"
   }
 ```
 
