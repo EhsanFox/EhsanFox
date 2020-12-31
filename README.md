@@ -21,7 +21,7 @@
 		Games: ['CS:GO', 'Valorant', 'R6'],
 		WatchingAnime: true,
 		TVSeries: true
-	],
+],
     	Projects: {
     		SetarBot: "a Music Bot Created for Discord",
         	SunriseRP: "Biggest Persian Fivem Roleplay Server"
