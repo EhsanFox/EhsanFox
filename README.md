@@ -6,7 +6,7 @@
 <em>Developer & Founder of <a href="http://3tarbot.ir/english/">SeTar-Team</a></em>
 
 
-<img width="270" height="420px" align="right" alt="Spotify_Player" src="https://spotify-github-profile.vercel.app/api/view?uid=f79f569o5kvg25hrc7wo0c439&cover_image=true&theme=default">
+<img align="right" alt="Spotify_Player" src="https://spotify-github-profile.vercel.app/api/view?uid=f79f569o5kvg25hrc7wo0c439&cover_image=true&theme=default">
 
 </br>
 </br>
