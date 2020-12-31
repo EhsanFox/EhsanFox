@@ -17,14 +17,14 @@
   	pronouns: ['Exxon', 'BoyCode', 'He'],
     	Languages: ['Javascript', 'TypeScript', 'PHP'],
     	Tools: ['VSCode', 'Node', 'DiscordJS'],
-    	hobbies: [
-		Games: ['CS:GO', 'Valorant', 'R6'],
-		WatchingAnime: true,
-		TVSeries: true
-],
+    	hobbies:[
+	    Games: ['CS:GO', 'Valorant', 'R6'],
+	    WatchingAnime: true,
+	    TVSeries: true
+	],  
     	Projects: {
-    		SetarBot: "a Music Bot Created for Discord",
-        	SunriseRP: "Biggest Persian Fivem Roleplay Server"
+    	    SetarBot: "a Music Bot Created for Discord",
+            SunriseRP: "Biggest Persian Fivem Roleplay Server"
     	},
     	website: "http://ehsan.js.org"
   }
