@@ -18,7 +18,7 @@
     	Languages: ['Javascript', 'TypeScript', 'PHP'],
     	Tools: ['VSCode', 'Node', 'DiscordJS'],
     	hobbies:[
-	    Games: ['CS:GO', 'Valorant', 'R6'],
+	    Games: ['Leauge of Legends', 'CS:GO', 'Valorant', 'R6'],
 	    WatchingAnime: true,
 	    TVSeries: true
 	],  
