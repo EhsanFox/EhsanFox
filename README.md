@@ -1,12 +1,9 @@
 <div align="center">
-<h2>Hi, I'm Ehsan 
+<h2>Hi, I'm Exxon
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
 </h2>
 </div>
 <em>Developer & Founder of <a href="http://3tarbot.ir/english/">SeTar-Team</a></em>
-
-
-<img width="270" height="420px" align="right" alt="Spotify_Player" src="https://spotify-github-profile.vercel.app/api/view?uid=f79f569o5kvg25hrc7wo0c439&cover_image=true&theme=default">
 
 </br>
 </br>
@@ -14,7 +11,7 @@
 
  ```javascript
   const Ehsan = {
-  	pronouns: ['Exxon', 'BoyCode', 'He'],
+  	pronouns: ['Exxon', 'Ehsan', 'BoyCode', 'He'],
     	Languages: ['Javascript', 'TypeScript', 'PHP'],
     	Tools: ['VSCode', 'Node', 'DiscordJS'],
     	hobbies:[
