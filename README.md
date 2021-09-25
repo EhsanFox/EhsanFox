@@ -13,7 +13,7 @@
   const Ehsan = {
   	pronouns: ['Exxon', 'Ehsan', 'BoyCode', 'He'],
     	Languages: ['Javascript', 'TypeScript', 'PHP'],
-    	Tools: ['VSCode', 'Node', 'DiscordJS'],
+    	Tools: ['VSCode', 'Node', 'Electron'],
     	hobbies:[
 	    Games: ['Leauge of Legends', 'CS:GO', 'Valorant', 'R6'],
 	    WatchingAnime: true,
