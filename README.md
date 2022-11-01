@@ -1,9 +1,9 @@
 <div align="center">
-<h2>Hi, I'm Exxon
+<h2>Hi, I'm Ehsan
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
 </h2>
 </div>
-<em>Developer & Founder of <a href="http://3tarbot.ir/english/">SeTar-Team</a></em>
+<em>Developer & Founder of <a href="http://3tarbot.ir/">SeTar-Team</a></em>
 
 </br>
 </br>
