@@ -3,29 +3,8 @@
 <img src="https://github.com/EhsanFox/EhsanFox/blob/main/banner.png?raw=true">
 </h2>
 </div>
-<em>Developer & Founder of <a href="http://3tarbot.ir/">SeTar-Team</a></em>
 
-</br>
-</br>
-</br>  
-
- ```javascript
-const Ehsan = {
-  pronouns: ["Exxon", "Ehsan", "BoyCode", "He"],
-  Languages: ["Javascript", "TypeScript", "PHP"],
-  Tools: ["VSCode", "Node", "Electron"],
-  hobbies: {
-    Games: ["Leauge of Legends", "CS:GO", "Valorant", "R6"],
-    WatchingAnime: true,
-    TVSeries: true,
-  },
-  Projects: {
-    SetarBot: "a Music Bot Created for Discord",
-    WinTube: "an Application to Use YouTube without any limit or any ads!",
-  },
-  website: "http://ehsan.js.org",
-};
-```
+Freelance & Open-Source Developer
 
 <h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
