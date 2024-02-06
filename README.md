@@ -1,6 +1,6 @@
 <div align="center">
 <h2>
-<img src="https://github.com/EhsanFox/EhsanFox/blob/main/banner.png?raw=true" width="30">
+<img src="https://github.com/EhsanFox/EhsanFox/blob/main/banner.png?raw=true">
 </h2>
 </div>
 <em>Developer & Founder of <a href="http://3tarbot.ir/">SeTar-Team</a></em>
