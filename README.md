@@ -5,6 +5,9 @@
   Freelance & Open-Source Developer
 </div>
 
+### Who am I 🧐
+- a dedicated open-source contributor and full-stack developer with a strong proficiency in TypeScript. Based in Sweden, I have contributed to various impactful projects, including MediaStreamer, SeTar-Bot, and numerous GitHub Actions.
+
 
 <h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
