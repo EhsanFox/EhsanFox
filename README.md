@@ -6,7 +6,7 @@
 </div>
 
 ### Who am I 🧐
-- a dedicated open-source contributor and full-stack developer with a strong proficiency in TypeScript. Based in Sweden, I have contributed to various impactful projects, including MediaStreamer, SeTar-Bot, and numerous GitHub Actions.
+- a dedicated open-source contributor and full-stack developer with a strong proficiency in TypeScript. Based in Sweden, I have contributed to various impactful projects, including MediaStreamer, SeTar-Bot, and numerous GitHub Actions. my contributions reflect a commitment to innovation and collaboration in the open-source community. Let's collaborate to bring your ideas to life with robust and efficient solutions.
 
 
 <h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
