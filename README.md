@@ -2,9 +2,9 @@
 <h2>
 <img src="https://github.com/EhsanFox/EhsanFox/blob/main/banner.png?raw=true">
 </h2>
+  Freelance & Open-Source Developer
 </div>
 
-Freelance & Open-Source Developer
 
 <h2>Contact Me <img width="50" height="28" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="socialmedia"></h2>
 
